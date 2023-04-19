@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    color:antiquewhite;}
+li{
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;}
+a{
+    color:aqua;}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgoldenrod;
+    font-size: 23px;}
+h4{
+    font-weight: normal;
+    font-size: 20px;}
+.scratchbg {
+    background-image: url('../Images/Scratch\ Background.jpeg');
+    background-position: bottom left;}
+.sectionheading{
+    font-style: italic;}
+.margin1{
+    margin-left: 225px;
+    margin-bottom: 100px;}
+.margin2{
+    margin-left: 100px;}
+.border{
+    border: 1px;
+    border-style: solid;
+    border-color:darkgray;
+    padding: 10px;}
